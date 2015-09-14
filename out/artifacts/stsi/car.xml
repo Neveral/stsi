@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+<car>
+<brand>honda</brand>
+<model>accord</model>
+<manufact_year>2003</manufact_year>
+</car>
+<car>
+<brand>kamaz</brand>
+<model>65201</model>
+<manufact_year>2006</manufact_year>
+</car>
+</cars>
